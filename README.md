@@ -40,4 +40,4 @@ requirements.txt` with certain version of python.
 
 **CREDIT**
 
-Special Thanks to **Prof Henry Chang** for providing guidence throughout this project
+Special Thanks to **Prof Henry Chang** for providing guidence throughout this project.
