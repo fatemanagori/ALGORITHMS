@@ -1,9 +1,9 @@
 # ALGORITHMS_DEPTH-FIRST-SEARCH_MAZE
 <img width="304" alt="Maze" src="https://user-images.githubusercontent.com/109574120/180377033-f3ed310c-8e9b-4666-bb9e-087da9af7393.png">
 
-**DESCRIPTION**
+<ins>**DESCRIPTION**</ins>
 
-**To solve Maze there are 2 approaches:**
+<ins>**To solve Maze there are 2 approaches:**</ins>
 
 [DEPTH-FIRST SEARCH](https://youtu.be/W9F8fDQj7Ok)
 
@@ -17,7 +17,7 @@ In this Project we solve maze using **Depth First Search(DFS)** approach, we als
 
 
 
-**ANALYSIS**
+<ins>**ANALYSIS**</ins>
 
 The shortest path can be find using Depth-First Search and Breadth-First Search . However In this project  Depth-First Search is used to find shortest path successfully. For the Leetcode question both the approaches takes same time and space, but in general For mazes specifically (if we define a maze as there being only one way to reach a cell from the starting point without backtracking, meaning it's essentially a tree), **BFS** will generally use more memory, as we'll need to keep multiple paths in memory at the same time, where **DFS** only needs to keep track of a single path at any given time.
 
@@ -25,7 +25,7 @@ The shortest path can be find using Depth-First Search and Breadth-First Search 
 
 
 
-**INSTALLATION**
+<ins>**INSTALLATION**</ins>
 
 I use [python](https://realpython.com/installing-python/) as a primary tools for Window 10 for 
 development. Also see [python](https://www.freecodecamp.org/news/python-version-on-mac-update/) for MAC.
@@ -38,6 +38,6 @@ requirements.txt` with certain version of python.
 
 
 
-**CREDIT**
+<ins>**CREDIT**</ins>
 
 Special Thanks to **Prof Henry Chang** for providing guidence throughout this project.
