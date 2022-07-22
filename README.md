@@ -27,14 +27,11 @@ The shortest path can be find using Depth-First Search and Breadth-First Search 
 
 **INSTALLATION**
 
-I use python and [pipenv](https://docs.pipenv.org/) as a primary tools for 
-development. See [Pipfile](Pipfile), [Pipfile.lock](Pipfile.lock), 
-[requirements-dev.txt](requirements-dev.txt)(if any) and
-[requirements.txt](requirements.txt) for full specification of 
-platform, python and dependency packages.  
+I use [python](https://realpython.com/installing-python/) as a primary tools for Window 10 for 
+development. Also see [python](https://www.freecodecamp.org/news/python-version-on-mac-update/) for MAC.
 Basically, to reproduce enviroment, you need to run `pip install -r 
-requirements.txt` with certain [version of python](Pipfile.lock#L15). However, 
-it is recommended to use [virtualenv](https://virtualenv.pypa.io/en/stable/).
+requirements.txt` with certain version of python.
+
 
 [MAZE_DEPTH-FIRST SEARCH](https://docs.google.com/presentation/d/1qfbWG4AkeXxGv2HY4-Xgng8I6K4pJeYjv_3et40Tb_c/edit#slide=id.g13d8509030d_0_31)
 
