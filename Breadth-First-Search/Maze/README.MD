@@ -33,7 +33,7 @@ Basically, to reproduce enviroment, you need to run `pip install -r
 requirements.txt` with certain version of python.
 
 
-[MAZE_Breadth-FIRST SEARCH](https://youtu.be/0c5bE5kU5QI)
+[MAZE_BREADTH-FIRST SEARCH](https://youtu.be/0c5bE5kU5QI)
 
 
 
